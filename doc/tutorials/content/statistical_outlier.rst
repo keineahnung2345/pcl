@@ -112,22 +112,22 @@ After you have made the executable, you can run it. Simply do::
 You will see something similar to::
 
   Cloud before filtering: 
-  header: 
-  seq: 0
-  stamp: 0.000000000
+  header: seq: 0 stamp: 0 frame_id:
+  
   frame_id: 
   points[]: 460400
   width: 460400
   height: 1
   is_dense: 0
+  sensor origin (xyz): [0, 0, 0] / orientation (xyzw): [0, 0, 0, 1]
 
   Cloud after filtering: 
-  header: 
-  seq: 0
-  stamp: 0.000000000
+  header: seq: 0 stamp: 0 frame_id: 
+
   frame_id: 
   points[]: 429398
   width: 429398
   height: 1
   is_dense: 0
+  sensor origin (xyz): [0, 0, 0] / orientation (xyzw): [0, 0, 0, 1]
 
