@@ -76,4 +76,15 @@ After you have made the executable, you can run it. Simply do::
 
 You should see the following::
 
-  range image of size 42x36 with angular resolution 1deg/pixel and 1512 points
+  header: 
+  seq: 0 stamp: 0 frame_id: 
+  points[]: 1360
+  width: 40
+  height: 34
+  sensor_origin_: 0 0 0
+  sensor_orientation_: 0 0 0 1
+  is_dense: 0
+  angular resolution: 1deg/pixel in x and 1deg/pixel in y.
+
+
+
